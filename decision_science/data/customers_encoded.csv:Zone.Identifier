@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://localhost:8889/
+HostUrl=https://wagon-public-datasets.s3.amazonaws.com/certification_paris_2021Q1/customers_encoded.csv
